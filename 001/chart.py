@@ -18,7 +18,7 @@ sns.barplot(y="chunks", x="chapter", data=df, ax=ax1)
 sns.barplot(y="words", x="chapter", data=df, ax=ax2)
 
 ax1.set_xlabel("")
-f.suptitle("Chunk and Word Counts By Chapter in the Hobbit", y=0.95, weight='semibold')
+f.suptitle("Chunk and Word Counts by Chapter in the Hobbit", y=0.95, weight='semibold')
 
 f.text(0.01, 0.02, "Digital Tolkien Project • digitaltolkien.com", size='medium', color='black', weight='medium')
 f.text(0.99, 0.02, "Little Delving #001", horizontalalignment='right', size='medium', color='black', weight='medium')
