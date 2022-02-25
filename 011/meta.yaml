@@ -1,0 +1,10 @@
+number: 11
+title: Distribution of Words per Paragraph in the Silmarillion
+description: |
+  Bin size 10. Only regular paragraphs counted (not headings, letters, or verse). Tokenization as before (em-dash to space then split on whitespace).
+
+  Longest paragraphs:
+  03.18.015
+  03.18.016
+  03.23.008
+tags: [tolkien, silmarillion, digitalhumanities]
