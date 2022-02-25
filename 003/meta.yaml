@@ -1,0 +1,13 @@
+number: 3
+title: Distribution of Words per Paragraph in the Hobbit
+description: |
+  Bin size 10. Only regular paragraphs counted (not headings, letters, or verse). Tokenization as before (em-dash to space then split on whitespace).
+
+  Paragraphs with over 300 words:
+
+  01.004
+  01.123
+  07.126
+  08.125
+  10.003
+tags: [tolkien, hobbit, digitalhumanities]

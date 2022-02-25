@@ -1,0 +1,10 @@
+number: 6
+title: Distribution of Words per Paragraph in Lord of the Rings.
+description: |
+  Bin size 10. Only regular paragraphs counted (not headings, letters, or verse). Tokenization as before (em-dash to space then split on whitespace).
+
+  Longest paragraphs:
+  01.11.148
+  03.04.118
+  03.04.119
+tags: [tolkien, lotr, lordoftherings, digitalhumanities]
