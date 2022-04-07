@@ -1,0 +1,183 @@
+
+<html>
+<head>
+  <title>Digital Tolkien: Little Delvings</title>
+  <style>
+      @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300&family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+
+      .site-header {
+        background: #282D34;
+        min-height: 56px;
+        position: relative;
+      }
+      .wrapper {
+        max-width: calc(800px - (15px * 2));
+        margin-right: auto;
+        margin-left: auto;
+        padding-right: 15px;
+        padding-left: 15px;
+      }
+      .site-title {
+        font-size: 26px;
+        font-weight: 300;
+        line-height: 57.6px;
+        margin-bottom: 0;
+        float: left;
+        text-decoration: none;
+        color: #CC9;
+      }
+      .site-nav {
+        float: right;
+        line-height: 57.6px;
+      }
+      .site-nav .page-link {
+        margin-right: 20px;
+        color: #E8E8E8;
+        line-height: 1.6;
+        text-decoration: none;
+      }
+      .page-content {
+        padding: 30px 0;
+        flex: 1;
+      }
+      body {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+        margin: 0;
+        font-family: "Merriweather", "Georgia", serif;
+        box-sizing: border-box;
+      }
+      .delving {
+        margin-top: 8rem;
+        max-width: 800px;
+      }
+      h2 {
+        margin-bottom: 0;
+      }
+      .description {
+        font-size: 10pt;
+      }
+      .code {
+        margin-top: 0.5rem;
+        font-size: 10pt;
+      }
+      img {
+        width: 100%;
+      }
+  </style>
+</head>
+<body>
+  <header class="site-header" role="banner">
+    <div class="wrapper">
+      <a class="site-title">Little Delvings</a>
+      <nav class="site-nav">
+        <a class="page-link" href="https://digitaltolkien.com/">Digital&nbsp;Tolkien&nbsp;Project</a>
+      </nav>
+    </div>
+  </header>
+  <main class="page-content">
+    <div class="wrapper">
+      <p>
+        These are little visualizations based on the text and annotations of the Digital Tolkien Project.
+        The code for each one is available as is the summary data where possible.
+      </p>
+      <p>
+        They are also posted to <a href="https://www.instagram.com/digitaltolkien/">Instagram</a>
+        and <a href="https://twitter.com/digitaltolkien">Twitter</a>.
+      </p>
+
+
+      <div class="delving">
+        <img src="001/001.png">
+        <h2>001. Chunk and Word Counts by Chapter in the Hobbit</h2>
+        <div class="description">chunks are paragraph-like units (including poetry stanzas) and words are tokenized by first converting em-dashes to whitespace then splitting on whitespace.<br></div>
+        <div class="code"><a href="https://github.com/digitaltolkien/little-delvings/tree/main/001">code</a><div>
+      </div>
+    
+
+      <div class="delving">
+        <img src="002/002.png">
+        <h2>002. Chunk and Word Counts by Chapter in the Hobbit (Scatter Plot)</h2>
+        <div class="description">same data as #001 but shown as a scatter plot to better identify which chapters have above or below average chunk (paragraph) sizes.<br></div>
+        <div class="code"><a href="https://github.com/digitaltolkien/little-delvings/tree/main/002">code</a><div>
+      </div>
+    
+
+      <div class="delving">
+        <img src="003/003.png">
+        <h2>003. Distribution of Words per Paragraph in the Hobbit</h2>
+        <div class="description">Bin size 10. Only regular paragraphs counted (not headings, letters, or verse). Tokenization as before (em-dash to space then split on whitespace).<br><br>Paragraphs with over 300 words:<br><br>01.004<br>01.123<br>07.126<br>08.125<br>10.003<br></div>
+        <div class="code"><a href="https://github.com/digitaltolkien/little-delvings/tree/main/003">code</a><div>
+      </div>
+    
+
+      <div class="delving">
+        <img src="004/004.png">
+        <h2>004. Chunk and Word Counts by Chapter in Lord of the Rings</h2>
+        <div class="description">chunks are paragraph-like units (including poetry stanzas) and words are tokenized by first converting em-dashes to whitespace then splitting on whitespace.<br></div>
+        <div class="code"><a href="https://github.com/digitaltolkien/little-delvings/tree/main/004">code</a><div>
+      </div>
+    
+
+      <div class="delving">
+        <img src="005/005.png">
+        <h2>005. Chunk and Word Counts by Chapter in Lord of the Rings (Scatter Plot)</h2>
+        <div class="description">same data as #004 but shown as a scatter plot to better identify which chapters have above or below average chunk (paragraph) sizes.<br></div>
+        <div class="code"><a href="https://github.com/digitaltolkien/little-delvings/tree/main/005">code</a><div>
+      </div>
+    
+
+      <div class="delving">
+        <img src="006/006.png">
+        <h2>006. Distribution of Words per Paragraph in Lord of the Rings.</h2>
+        <div class="description">Bin size 10. Only regular paragraphs counted (not headings, letters, or verse). Tokenization as before (em-dash to space then split on whitespace).<br><br>Longest paragraphs:<br>01.11.148<br>03.04.118<br>03.04.119<br></div>
+        <div class="code"><a href="https://github.com/digitaltolkien/little-delvings/tree/main/006">code</a><div>
+      </div>
+    
+
+      <div class="delving">
+        <img src="007/007.png">
+        <h2>007. Chunk and Word Counts by Book in Lord of the Rings</h2>
+        <div class="description">chunks are paragraph-like units (including poetry stanzas) and words are tokenized by first converting em-dashes to whitespace then splitting on whitespace.<br></div>
+        <div class="code"><a href="https://github.com/digitaltolkien/little-delvings/tree/main/007">code</a><div>
+      </div>
+    
+
+      <div class="delving">
+        <img src="008/008.png">
+        <h2>008. Chunk and Word Counts by Book in Lord of the Rings (Scatter Plot)</h2>
+        <div class="description">Intriguing how much the two halves cluster the way they do.<br></div>
+        <div class="code"><a href="https://github.com/digitaltolkien/little-delvings/tree/main/008">code</a><div>
+      </div>
+    
+
+      <div class="delving">
+        <img src="009/009.png">
+        <h2>009. Chunk and Word Counts by Chapter in the Silmarillion</h2>
+        <div class="description">chunks are paragraph-like units (including poetry stanzas) and words are tokenized by first converting em-dashes to whitespace then splitting on whitespace.<br></div>
+        <div class="code"><a href="https://github.com/digitaltolkien/little-delvings/tree/main/009">code</a><div>
+      </div>
+    
+
+      <div class="delving">
+        <img src="010/010.png">
+        <h2>010. Chunk and Word Counts by Chapter in the Silmarillion (Scatter Plot)</h2>
+        <div class="description">same data as #009 but shown as a scatter plot to better identify which chapters have above or below average chunk (paragraph) sizes.<br></div>
+        <div class="code"><a href="https://github.com/digitaltolkien/little-delvings/tree/main/010">code</a><div>
+      </div>
+    
+
+      <div class="delving">
+        <img src="011/011.png">
+        <h2>011. Distribution of Words per Paragraph in the Silmarillion</h2>
+        <div class="description">Bin size 10. Only regular paragraphs counted (not headings, letters, or verse). Tokenization as before (em-dash to space then split on whitespace).<br><br>Longest paragraphs:<br>03.18.015<br>03.18.016<br>03.23.008<br></div>
+        <div class="code"><a href="https://github.com/digitaltolkien/little-delvings/tree/main/011">code</a><div>
+      </div>
+    
+
+    </div>
+  </main>
+</body>
+</html>
+
