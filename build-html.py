@@ -6,6 +6,7 @@ print("""
 <html>
 <head>
   <title>Digital Tolkien: Little Delvings</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
       @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300&family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&display=swap');
 
@@ -76,6 +77,7 @@ print("""
     <div class="wrapper">
       <a class="site-title">Little Delvings</a>
       <nav class="site-nav">
+        <a class="page-link" href="https://search.digitaltolkien.com/">Search&nbsp;Tolkien</a>
         <a class="page-link" href="https://digitaltolkien.com/">Digital&nbsp;Tolkien&nbsp;Project</a>
       </nav>
     </div>
