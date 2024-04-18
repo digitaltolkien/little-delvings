@@ -1,5 +1,0 @@
-number: 5
-title: Chunk and Word Counts by Chapter in Lord of the Rings (Scatter Plot)
-description: |
-  same data as #004 but shown as a scatter plot to better identify which chapters have above or below average chunk (paragraph) sizes.
-tags: [tolkien, lotr, lordoftherings, digitalhumanities]

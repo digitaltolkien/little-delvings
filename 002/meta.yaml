@@ -1,5 +1,0 @@
-number: 2
-title: Chunk and Word Counts by Chapter in the Hobbit (Scatter Plot)
-description: |
-  same data as #001 but shown as a scatter plot to better identify which chapters have above or below average chunk (paragraph) sizes.
-tags: [tolkien, hobbit, digitalhumanities]

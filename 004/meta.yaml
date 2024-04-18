@@ -1,5 +1,0 @@
-number: 4
-title: Chunk and Word Counts by Chapter in Lord of the Rings
-description: |
-  chunks are paragraph-like units (including poetry stanzas) and words are tokenized by first converting em-dashes to whitespace then splitting on whitespace.
-tags: [tolkien, lotr, lordoftherings, digitalhumanities]

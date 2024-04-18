@@ -1,5 +1,0 @@
-number: 10
-title: Chunk and Word Counts by Chapter in the Silmarillion (Scatter Plot)
-description: |
-  same data as #009 but shown as a scatter plot to better identify which chapters have above or below average chunk (paragraph) sizes.
-tags: [tolkien, silmarillion, digitalhumanities]

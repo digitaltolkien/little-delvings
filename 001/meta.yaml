@@ -1,5 +1,0 @@
-number: 1
-title: Chunk and Word Counts by Chapter in the Hobbit
-description: |
-  chunks are paragraph-like units (including poetry stanzas) and words are tokenized by first converting em-dashes to whitespace then splitting on whitespace.
-tags: [tolkien, hobbit, digitalhumanities]
