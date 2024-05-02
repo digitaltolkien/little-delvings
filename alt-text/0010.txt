@@ -1,0 +1,10 @@
+Mentions of ‘Gollum’ vs ‘Sméagol’ by book of Lord of the Rings
+Bar chart
+Book 1: Gollum 30 Sméagol 8
+Book 2: Gollum 23 Sméagol 1
+Book 3: Gollum 4 Sméagol 0
+Book 4: Gollum 308 Sméagol 141
+Book 5: Gollum 2 Sméagol 0
+Book 6: Gollum 18 Sméagol 2
+Little Delving #0010
+digitaltolkien.com

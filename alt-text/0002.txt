@@ -1,0 +1,6 @@
+“war” versus “peace” frequency per 10k tokens
+The Hobbit: war 1.15, peace 0.73
+The Lord of the Rings: war 4.18, peace 2.15
+The Silmarillion: war 7.76, peace 3.92
+Little Delving #0002
+digitaltolkien.com

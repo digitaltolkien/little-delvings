@@ -1,0 +1,7 @@
+Mentions of ‘Shire’, ‘Rohan’, and ’Gondor’ by book of Lord of the Rings
+Bar chart showing counts of Shire, Rohan, and Gondor for each book.
+Counts for Shire by book are 123, 47, 5, 12, 17, 54.
+Counts for Rohan by book are 0, 23, 74, 7, 70, 29.
+Counts for Gondor by book are 0, 32, 34, 43, 113, 38.
+Little Delving #0007
+digitaltolkien.com

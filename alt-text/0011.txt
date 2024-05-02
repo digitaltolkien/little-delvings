@@ -1,0 +1,6 @@
+“evil” versus “good” frequency per 10k tokens
+The Hobbit: evil 1.26 good 18.22
+The Lord of the Rings: evil 5.2 good 9.4
+The Silmarillion: evil 11.14 good 2.38
+Little Delving #0011
+digitaltolkien.com
