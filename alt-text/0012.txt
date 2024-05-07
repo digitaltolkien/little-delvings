@@ -1,0 +1,5 @@
+Distribution of Words Per Paragraph in The Lord of the Rings
+Histogram showing number of paragraphs with a given number of words.
+The longest paragraph is 1.11.148 with 483 words.
+Little Delving #0012
+digitaltolkien.com
