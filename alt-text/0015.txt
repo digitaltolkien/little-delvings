@@ -1,5 +1,4 @@
-<body style="margin: 0;">
-<img src="images/0015.png" width="100%" alt="Mentions of ‘Black Gate’ vs ‘Morannon’ by book of Lord of the Rings
+Mentions of ‘Black Gate’ vs ‘Morannon’ by book of Lord of the Rings
 Bar chart
 Book 1: Black Gate 0 ‘Morannon’ 0
 Book 2: Black Gate 2 ‘Morannon’ 0
@@ -8,5 +7,4 @@ Book 4: Black Gate 7 ‘Morannon’ 7
 Book 5: Black Gate 9 ‘Morannon’ 5
 Book 6: Black Gate 6 ‘Morannon’ 1
 Little Delving #0015
-digitaltolkien.com">
-</body>
+digitaltolkien.com
