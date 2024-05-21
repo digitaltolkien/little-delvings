@@ -1,0 +1,5 @@
+Distribution of Words Per Paragraph in The Silmarillion
+Histogram showing number of paragraphs with a given number of words.
+The longest paragraph is QS.18.016 with 481 words.
+Little Delving #0016
+digitaltolkien.com
