@@ -1,0 +1,6 @@
+“dark” versus “light” frequency per 10k tokens
+The Hobbit: dark 14.77 light 12.25
+The Lord of the Rings: dark 15.35 light 11.4
+The Silmarillion: dark 12.45 light 11.61
+Little Delving #0018
+digitaltolkien.com
